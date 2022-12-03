@@ -1,0 +1,24 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "content": "json-server 123",
+      "isChecked": false
+    },
+    {
+      "id": 2,
+      "content": "json-server 01",
+      "isChecked": true
+    },
+    {
+      "id": "38dd4e10-4794-4aba-b99a-d94995bcca6f",
+      "content": "hello 2",
+      "isChecked": true
+    },
+    {
+      "id": "12d4306b-8864-42e2-9261-854e65c6b312",
+      "content": "Minh Đức 2",
+      "isChecked": false
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+const SET_JOB = 'SET_JOB'
+const ADD_JOB = 'ADD_JOB'
+const IS_CHECKED = 'IS_CHECKED'
+const DELETE_JOB = 'DELETE_JOB'
+const EDIT_JOB = 'EDIT_JOB'
+
+export { SET_JOB, ADD_JOB, IS_CHECKED, DELETE_JOB, EDIT_JOB }
