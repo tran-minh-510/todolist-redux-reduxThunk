@@ -17,7 +17,6 @@ const reducer = (state = initState, action) => {
             const afterDeleted = [...state].filter(({ id }) => id !== action.payload)
             return afterDeleted
         case EDIT_JOB:
-            console.log('123')
             const cloneStatee = [...state]
             const findJobb = cloneStatee.find(({ id }) => id === action.payload.id)
             if (findJobb) findJobb.content = action.payload.content
